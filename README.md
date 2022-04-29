@@ -110,6 +110,5 @@ Deze onzichtbare muur voegen we nog toe, dit is een simpele kubus waar we de mes
 <img src="./images/step15.png" >
 
 <br>
-<br>
 
 Jouw project is nu klaar om te beginnen met trainen. Veel succes!
